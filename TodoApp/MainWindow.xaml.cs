@@ -33,6 +33,7 @@ namespace TodoApp
                 TodoList.Children.Add(todoItem);
                 TodoInput.Clear();
             }
+
         }
     }
 }
